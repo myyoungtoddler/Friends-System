@@ -1,0 +1,11 @@
+name: FriendsSystem
+version: 1.0.0
+main: dev.friendssystem.paper.FriendsPaperPlugin
+api-version: '1.21'
+commands:
+  friend:
+    description: Manage friends, invites, and friend requests.
+    usage: /friend
+  friendlist:
+    description: Open your friends list.
+    usage: /friendlist
